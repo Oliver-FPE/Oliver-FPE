@@ -16,10 +16,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oliver-FPE&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="130" alt="stats graph"  />
-</div>
+### 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=jiroaku&theme=dark&hide_border=true" alt="Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-fpe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 ###
 
 ###
