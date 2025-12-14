@@ -35,11 +35,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SleepyCatHey&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Oliver-Fpe&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<p align="left">I'm currently working on repo #desktop-customisation.<br>*powered by imagination*<br><br>I'm currently learning lua/luau, here are my pronouns! "They/them" Normally, people reach me from my roblox acc. <br>Bye! </p>
+<p align="left">I'm currently working on repo #desktop-customisation and #Matcha package manager.<br>*powered by imagination*<br><br>I'm currently learning lua/luau, here are my pronouns! "They/them" Normally, people reach me from my roblox acc. <br>Bye! </p>
 
 
