@@ -12,8 +12,8 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oliver-FPE.oLIVER-fpe&"  />
-</div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oliver-FPE.Oliver-FPE&"  />
+</di
 
 ###
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Oliver-Fpe&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Oliver-FPE&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
 </div>
 
 ###
