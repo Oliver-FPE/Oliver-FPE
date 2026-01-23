@@ -52,7 +52,7 @@
 
 
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 My thoughts 🌟</h2>
 
 
 
@@ -81,7 +81,6 @@
 
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Never%20argue%20with%20ignorance.%20It%20only%20leads%20to%20frustration.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
