@@ -45,5 +45,4 @@
 
 ###
 
-<div align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oliver-FPE&repo=Matcha)](https://github.com/Oliver-FPE/Matcha)
+<p align="left">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oliver-FPE&repo=Matcha)](https://github.com/Oliver-FPE/Matcha)
