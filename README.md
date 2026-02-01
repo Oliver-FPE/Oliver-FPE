@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Oliver! 👋</h1>
+<h1 align="left">こんにちは、オリバーです！ 👋</h1>
 
 ###
 
@@ -52,7 +52,7 @@
 
 
 
-<h2 align="center">🌟 My thoughts 🌟</h2>
+<h2 align="center">🌟 私の考え 🌟</h2>
 
 
 
