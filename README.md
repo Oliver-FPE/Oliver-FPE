@@ -44,6 +44,20 @@
 <p align="left">I'm currently working on repo #desktop-customisation and #Matcha package manager.<br>*powered by imagination*<br><br>I'm currently learning lua/luau, here are my pronouns! "They/them" Normally, people reach me from my roblox acc.  I love MHA  <br>Bye! </p>
 
 ###
+<p align="left">I'm trying to boost my package manager but.. its ok :)
+###
+
+  
+## Star History
+
+<a href="https://www.star-history.com/?repos=matcha%2Fmatcha&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=matcha/matcha&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=matcha/matcha&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=matcha/matcha&type=date&legend=top-left" />
+ </picture>
+</a>
+###
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oliver-FPE&repo=Matcha)](https://github.com/Oliver-FPE/Matcha)
 
