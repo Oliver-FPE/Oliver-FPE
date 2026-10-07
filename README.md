@@ -47,7 +47,6 @@
 <p align="left">I'm trying to boost my package manager but.. its ok :)
 ###
 
-  
 ## Star History
 
 <a href="https://www.star-history.com/?repos=matcha%2Fmatcha&type=date&legend=top-left">
